@@ -1,0 +1,12 @@
+C:\Users\hsnma\source\repos\CepProject\CepProject\bin\Debug\CepProject.exe.config
+C:\Users\hsnma\source\repos\CepProject\CepProject\bin\Debug\CepProject.exe
+C:\Users\hsnma\source\repos\CepProject\CepProject\bin\Debug\CepProject.pdb
+C:\Users\hsnma\source\repos\CepProject\CepProject\bin\Debug\NAudio.dll
+C:\Users\hsnma\source\repos\CepProject\CepProject\bin\Debug\NAudio.xml
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.csprojAssemblyReference.cache
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.Form1.resources
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.Properties.Resources.resources
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.csproj.GenerateResource.cache
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.csproj.CopyComplete
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.exe
+C:\Users\hsnma\source\repos\CepProject\CepProject\obj\Debug\CepProject.pdb
